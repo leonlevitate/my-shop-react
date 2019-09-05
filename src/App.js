@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
-import Catalog from "./catalog";
-import Cart from "./cart";
+import Catalog from "./Catalog";
+import Cart from "./Cart";
 
 class App extends Component {
   render() {
