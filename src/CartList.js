@@ -1,8 +1,10 @@
 import React from "react";
+import "./cartlist.css";
+
 class CartList extends React.Component {
   render() {
     return (
-      <div>
+      <div class="cart">
         <h3>Shopping Cart:</h3>
         <ul>
           <p>Traditional Merlot</p>
